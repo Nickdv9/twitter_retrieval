@@ -2,7 +2,7 @@ baseURL: "https://exquisite-chebakia-9a513b.netlify.app/"
 relativeURLs: "True"
 languageCode: en-us
 title: U.E.R.R.T
-paginate: 5
+paginate: 6
 theme: PaperMod
 
 enableRobotsTXT: true
