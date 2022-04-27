@@ -1,10 +1,10 @@
 ---
-title: "Introduction"
+title: "Dataset"
 # date: 2020-09-15T11:30:03+00:00
-weight: 1
+weight: 3
 # aliases: ["/first"]
-tags: ["Introduction"]
-categories: ["Retreival"]
+tags: ["Dataset"]
+categories: ["Retrieval"]
 # author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,8 +12,8 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-summary: "Intro to URL embedded retreival"
-description: "Introduction to URL Embedded Retrieval & Ranking system for Twitter"
+summary: "Dataset information"
+description: "Twitter dataset."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -34,5 +34,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-## Intro

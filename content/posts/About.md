@@ -1,10 +1,10 @@
 ---
-title: "Introduction"
+title: "About"
 # date: 2020-09-15T11:30:03+00:00
-weight: 1
-# aliases: ["/first"]
-tags: ["Introduction"]
-categories: ["Retreival"]
+weight: 6
+aliases: ["/about"]
+tags: ["Contributors"]
+categories: ["People"]
 # author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,8 +12,8 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-summary: "Intro to URL embedded retreival"
-description: "Introduction to URL Embedded Retrieval & Ranking system for Twitter"
+summary: "Contributors"
+# description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -34,5 +34,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-## Intro
