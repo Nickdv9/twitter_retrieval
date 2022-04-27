@@ -34,3 +34,11 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+### Contributors
+
+This project is a collaborative effort among the following graduate students at WPI, as a part of CS547 coursework:
+
+- **Janani Sankarasubramanian**
+- **Kartik Nautiyal**
+- **Nikhil Gunale**

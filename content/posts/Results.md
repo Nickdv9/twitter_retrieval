@@ -34,3 +34,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+### Query results
+![Results for query](/Results/Results_query.png)
+
+### Similarity results
+![Similarity results](/Results/Results_similarity.png)
