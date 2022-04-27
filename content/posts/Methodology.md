@@ -9,7 +9,7 @@ categories: ["Retrieval"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 summary: "Implementation"
@@ -46,7 +46,7 @@ We used a filter to obtain tweets with embedded links, then we cleaned up the li
 For the scraping, we tried both BeautifulSoup and Selenium. Selenium was better at handling pop-ups and paywalls. This results in our final dataset.
 
     # Following is the scoring function we used to rearrange the links
-    
+
     def get_tweet_score(followers, following, totaltweets, retweetcount):
         # factors denoting popularity of a given tweet
         # consider the following order of importance

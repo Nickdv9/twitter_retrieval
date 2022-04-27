@@ -9,7 +9,7 @@ categories: ["Retrieval", "Analysis"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 summary: "Conclusion"
